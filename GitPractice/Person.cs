@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace GitPractice
 {
-    class Person
-    {
-    }
+	class Person
+	{
+		static void Print()
+		{
+			Console.WriteLine("eyyy");
+		}
+	}
 }
