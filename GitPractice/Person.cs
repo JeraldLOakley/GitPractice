@@ -6,9 +6,15 @@ using System.Threading.Tasks;
 
 namespace GitPractice
 {
-    class Person
-    {
 
-        //comment
-    }
+   
+
+	class Person
+	{
+		static void Print()
+		{
+			Console.WriteLine("eyyy");
+		}
+	}
+
 }
